@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: comment-admin\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: corimanon <admin@cori.fr.nf>\n"
+"Language-Team: jessai, corimanon, youte, peggy <http://jessai.fr.nf>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: picture_frame.php:79
+msgid "Paramètres du plugin : Marquer commentaires administrateur"
+msgstr ""
+
+#: picture_frame.php:82
+#: picture_frame.php:94
+msgid "Mettre à jour les options"
+msgstr ""
+
+#: picture_frame.php:87
+msgid "Couleur du fond :"
+msgstr ""
+
+#: picture_frame.php:103
+msgid "Commentaires admin"
+msgstr ""
+
